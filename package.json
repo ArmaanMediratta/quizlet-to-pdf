@@ -1,0 +1,27 @@
+{
+  "name": "quizlet",
+  "version": "1.0.0",
+  "pkg": {
+    "assets": "node_modules/@foliojs-fork"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "download": "^8.0.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "nexe": "^4.0.0-rc.1",
+    "pdfmake": "^0.2.5",
+    "prompt-sync": "^4.2.0",
+    "sleep-promise": "^9.1.0",
+    "ttfjs": "^0.4.0"
+  }
+}
